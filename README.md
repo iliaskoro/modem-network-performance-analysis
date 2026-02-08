@@ -111,9 +111,8 @@ All output files are generated under the directory defined in FILES_PATH inside 
 If you wish to separate results per session (e.g., session1, session2), adjust `FILES_PATH` accordingly before execution.
 
 ## Author
-
 Ilias Korompilis
 
 ## License
-
 Academic and educational use only.
+
